@@ -2,7 +2,7 @@
 
 ### `for setup`
 
-Npm build
+Npm build > 
 Npm start
 
 
