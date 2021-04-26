@@ -1,9 +1,9 @@
 
 
-### `npm start`
+### `for setup`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Npm build
+Npm start
 
 
 ### `API Link`
