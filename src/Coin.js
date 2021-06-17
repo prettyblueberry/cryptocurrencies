@@ -29,7 +29,7 @@
             )}
 
             <p className='coin-marketcap'>
-                Market Cap Değeri: ${marketcap.toLocaleString()}
+                Market Cap Value: ${marketcap.toLocaleString()}
             </p>
             </div>
         </div>
